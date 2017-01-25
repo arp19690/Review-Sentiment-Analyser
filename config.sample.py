@@ -1,0 +1,1 @@
+TRUSTED_COMPANY_URL = "http://xyz.com"
